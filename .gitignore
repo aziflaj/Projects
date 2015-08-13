@@ -38,4 +38,24 @@ nosetests.xml
 .komodotools/
 *.komodoproject
 
-.DS_Store
+# Mac OS X clutter
+*.DS_Store
+
+# Java class files
+*.class
+
+# Linux
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# Windows clutter
+Thumbs.db
+
+### Intellij ###
+*.iml
+*.idea/
